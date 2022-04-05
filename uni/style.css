@@ -1,0 +1,31 @@
+body
+{
+    background-image: url("https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: 100%;
+    margin-left:220px;
+    margin-right:220px;
+}
+h1{color:blue;font-size:30px}
+p{color:black;font-size:22px}
+ul{font-size:22px}
+a {
+    color: #000000;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: blue;
+  }
+  .vklink {
+    border:5px double black;
+    text-decoration: none;
+    padding-top:80px;
+    padding-right:10px;
+    padding-left:10px;
+    margin-bottom:105;
+}
+.logo1 {
+    border:5px dotted black;
+    padding:10px;
+    margin-bottom:105;
+}
